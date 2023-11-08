@@ -36,7 +36,7 @@ Aqui estão alguns dos projetos que realizei:
 - Google Cloud Plataform (GCP)
   * Criação de buckets no Google Cloud Storage
   * Criação e gestão tabelas no BigQuery
-  * Integração com API da Google para automatizações
+  * Integração com API da Google para automações
     
   
 ## Contato
